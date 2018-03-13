@@ -86,3 +86,8 @@ function handleMouseClick(){
   console.log(Ys)
   return
 }
+
+function sendData(){
+  console.log("tuki dodej funkcijo ki pošlje POST request RPI-ju");
+  return
+}
