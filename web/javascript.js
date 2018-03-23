@@ -74,7 +74,7 @@ function drawEverything(){
     if(Xprev != Xcurrent && currentLineLength < lineLen){
 
         currentLineLength += Math.sqrt((Yprev - Ycurrent)*(Yprev - Ycurrent) + (Xprev - Xcurrent)*(Xprev - Xcurrent));
-        console.log(currentLineLength);
+        //console.log(currentLineLength);
 
         canvasContext.stroke();
         canvasContext.beginPath();
@@ -102,6 +102,11 @@ function handleMouseClick(evt){
     var tmp = calculateMousePos(evt);
     Xprev=tmp.x;Yprev=tmp.y;
     Xcurrent=Xprev;Ycurrent=Yprev;
+    
+   
+    //var blob = new Blob([Xs,Ys],{type:"text/plain;charset=utf-8"});
+    //FileSaver.saveAs(blob, "test123.txt")
+
     return
 }
 
