@@ -3,10 +3,6 @@ import matplotlib.pyplot as plt
 from scipy import interpolate
 from math import sqrt
 
-#t = np.arange(0, 1.1, .1)
-#x = np.sin(3*np.pi*t)
-#y = np.cos(2*np.pi*t)
-
 smoothing = 10
 z = 10 #offset
 '''
