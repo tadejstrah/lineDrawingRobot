@@ -43,6 +43,10 @@ def speed(l,r,ld,rd,time):
     r.start()
     sleep(time)
     return
+for i in range(10):
+	speed(i*30,i*30,0,1,0.3)
+
+
 '''
     def setSpeed(left,right):
     global freqleft,freqright
