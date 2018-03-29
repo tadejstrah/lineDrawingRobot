@@ -2,6 +2,7 @@ import numpy as np
 #import matplotlib.pyplot as plt
 from scipy import interpolate
 from math import sqrt
+from stepper_control import speed
 
 smoothing = 10
 z = 10   #offset
@@ -60,6 +61,11 @@ for j in range(len(x2)-1):
     zracunaj_razdalje1(x2[j],y2[j],x2[j+1],y2[j+1])
     zracunaj_razdalje2(x3[j],y3[j],x3[j+1],y3[j+1])
     
+for k in range(len(dist1)):
+    speed(dist1[k]*100,dist2[k]*100,1,0,5)
+    print(k)
+
+
 #print(dist1)
 
 #Xs_for_the_x_axis_on_the_graph = np.linspace(0, 10, num=len(x2)-1, endpoint=True)
