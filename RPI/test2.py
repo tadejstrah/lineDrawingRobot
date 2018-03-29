@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from scipy import interpolate
 from math import sqrt
 
@@ -62,18 +62,18 @@ for j in range(len(x2)-1):
     
 #print(dist1)
 
-Xs_for_the_x_axis_on_the_graph = np.linspace(0, 10, num=len(x2)-1, endpoint=True)
+#Xs_for_the_x_axis_on_the_graph = np.linspace(0, 10, num=len(x2)-1, endpoint=True)
 
-plt.figure()
+#plt.figure()
 #plt.plot( out[0], out[1], x2, y2, x3, y3 )
-plt.plot(Xs_for_the_x_axis_on_the_graph,dist1, Xs_for_the_x_axis_on_the_graph,dist2)
+#plt.plot(Xs_for_the_x_axis_on_the_graph,dist1, Xs_for_the_x_axis_on_the_graph,dist2)
 #plt.plot(Xs_for_the_x_axis_on_the_graph, not_a_np_array_of_interpoleted_Ys)
-plt.axis([0, 10, 0, 2])
-plt.legend(['hitrost enega motorja', 'hirost drugega motorja', 'offset 2'])
+#plt.axis([0, 10, 0, 2])
+#plt.legend(['hitrost enega motorja', 'hirost drugega motorja', 'offset 2'])
 #plt.legend(['offse 1', 'input', 'offset 2'])
 #plt.axis([0, 300, 0, 300])
-plt.title('YAY, dela :-)')
-plt.show()
+#plt.title('YAY, dela :-)')
+#plt.show()
 
 '''
 plt.figure()
