@@ -14,8 +14,9 @@ plt.axis([-1, 7, -2, 4])
 
 yder = interpolate.splev(xnew, tck, der=1)
 
-plt.plot(xnew, yder, xnew, np.cos(xnew),'--',x, y, 'x', xnew, ynew, xnew, np.sin(xnew), x, y, 'b')
+#plt.plot(xnew, yder, xnew, np.cos(xnew),'--',x, y, 'x', xnew, ynew, xnew, np.sin(xnew), x, y, 'b')
 
+plt.plot(xnew, yder)
 
 
 plt.show()

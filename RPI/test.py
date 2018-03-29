@@ -4,6 +4,7 @@ import turtle
 import math
 tabela=[]
 a=0
+
 turtle.pu()
 turtle.goto(0, 0)
 while a <= 5000:
