@@ -1,6 +1,6 @@
 from flask import Flask
 from flask import request
-from test3 import speed
+from stepper_control import speed
 app = Flask(__name__)
 
 @app.route('/a', methods=['POST'])
