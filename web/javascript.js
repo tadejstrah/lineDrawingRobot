@@ -6,6 +6,7 @@ var Ycurrent = 150;
 var Xprev = 250;
 var Yprev = 150;
 
+
 var Xs = []
 var Ys = []
 
@@ -38,6 +39,10 @@ window.onload = function() {
     canvas.addEventListener('mouseup', function() {
         currentLineLength = lineLen;
         drawing=false;
+        Xs.splice(0,1);
+        Ys.splice(0,1);
+        console.log(Xs);
+        console.log(Ys);
     });
 }
 
@@ -70,6 +75,7 @@ function chooseLength() {
     }
 }
 
+
 function drawEverything(){
     if(Xprev != Xcurrent && currentLineLength < lineLen){
 
@@ -90,20 +96,18 @@ function drawEverything(){
 
 function handleMouseClick(evt){
 
-    console.log(Xs)
-    console.log(Ys)
     currentLineLength = 0;
 
     Xs = [];
     Ys = [];
     canvasContext.fillStyle = 'lightblue';
     canvasContext.fillRect(0,0,canvas.width,canvas.height);
-    drawing=true;
+    drawing = true;
     var tmp = calculateMousePos(evt);
-    Xprev=tmp.x;Yprev=tmp.y;
+    Xprev=tmp.x; Yprev=tmp.y;
     Xcurrent=Xprev;Ycurrent=Yprev;
-    
-   
+
+
     //var blob = new Blob([Xs,Ys],{type:"text/plain;charset=utf-8"});
     //FileSaver.saveAs(blob, "test123.txt")
 
@@ -111,6 +115,15 @@ function handleMouseClick(evt){
 }
 
 function sendData(){
+    var btn = document.getElementById("sendbtn");
+    var tmp = btn.innerHTML;
+    btn.disabled=true;
+    btn.innerHTML="Nalaganje...";
+    var postdata = "xs="+Xs.toString()+"&ys="+Ys.toString();
+    $.post( "blablab/draw.html",postdata, function( data ) {
+       btn.disabled=false;
+        btn.innerHTML=tmp;
+    }); 
     console.log("tuki dodej funkcijo ki pošlje POST request RPI-ju");
     return
 }
