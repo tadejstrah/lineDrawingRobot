@@ -1,293 +1,297 @@
+C:\Users\Luka\PycharmProjects\omarce_spletka\venv\Scripts\python.exe C:/Users/Luka/PycharmProjects/prva-spletna-stran-master/tests/hjtml.py
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika1".jpg style="width:100%">
+    <img src="slike/slika1".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika2".jpg style="width:100%">
+    <img src="slike/slika2".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika3".jpg style="width:100%">
+    <img src="slike/slika3".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika4".jpg style="width:100%">
+    <img src="slike/slika4".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika5".jpg style="width:100%">
+    <img src="slike/slika5".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika6".jpg style="width:100%">
+    <img src="slike/slika6".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika7".jpg style="width:100%">
+    <img src="slike/slika7".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika8".jpg style="width:100%">
+    <img src="slike/slika8".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika9".jpg style="width:100%">
+    <img src="slike/slika9".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika10".jpg style="width:100%">
+    <img src="slike/slika10".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika11".jpg style="width:100%">
+    <img src="slike/slika11".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika12".jpg style="width:100%">
+    <img src="slike/slika12".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika13".jpg style="width:100%">
+    <img src="slike/slika13".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika14".jpg style="width:100%">
+    <img src="slike/slika14".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika15".jpg style="width:100%">
+    <img src="slike/slika15".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika16".jpg style="width:100%">
+    <img src="slike/slika16".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika17".jpg style="width:100%">
+    <img src="slike/slika17".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika18".jpg style="width:100%">
+    <img src="slike/slika18".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika19".jpg style="width:100%">
+    <img src="slike/slika19".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika20".jpg style="width:100%">
+    <img src="slike/slika20".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika21".jpg style="width:100%">
+    <img src="slike/slika21".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika22".jpg style="width:100%">
+    <img src="slike/slika22".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika23".jpg style="width:100%">
+    <img src="slike/slika23".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika24".jpg style="width:100%">
+    <img src="slike/slika24".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika25".jpg style="width:100%">
+    <img src="slike/slika25".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika26".jpg style="width:100%">
+    <img src="slike/slika26".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika27".jpg style="width:100%">
+    <img src="slike/slika27".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika28".jpg style="width:100%">
+    <img src="slike/slika28".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika29".jpg style="width:100%">
+    <img src="slike/slika29".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika30".jpg style="width:100%">
+    <img src="slike/slika30".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika31".jpg style="width:100%">
+    <img src="slike/slika31".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika32".jpg style="width:100%">
+    <img src="slike/slika32".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika33".jpg style="width:100%">
+    <img src="slike/slika33".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika34".jpg style="width:100%">
+    <img src="slike/slika34".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika35".jpg style="width:100%">
+    <img src="slike/slika35".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika36".jpg style="width:100%">
+    <img src="slike/slika36".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika37".jpg style="width:100%">
+    <img src="slike/slika37".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika38".jpg style="width:100%">
+    <img src="slike/slika38".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika39".jpg style="width:100%">
+    <img src="slike/slika39".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika40".jpg style="width:100%">
+    <img src="slike/slika40".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika41".jpg style="width:100%">
+    <img src="slike/slika41".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika42".jpg style="width:100%">
+    <img src="slike/slika42".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika43".jpg style="width:100%">
+    <img src="slike/slika43".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika44".jpg style="width:100%">
+    <img src="slike/slika44".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika45".jpg style="width:100%">
+    <img src="slike/slika45".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika46".jpg style="width:100%">
+    <img src="slike/slika46".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika47".jpg style="width:100%">
+    <img src="slike/slika47".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika48".jpg style="width:100%">
+    <img src="slike/slika48".jpg style="width:100%">
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="slika49".jpg style="width:100%">
+    <img src="slike/slika49".jpg style="width:100%">
     <div class="text"></div>
   </div>
+
+
+Process finished with exit code 0
